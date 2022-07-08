@@ -1,5 +1,13 @@
 /* add code here to make your image 300px square */
-
+img {
+    size-adjust: 300px;
+}
 /* add code here to change the color and font family of your name/title */
-
+title {
+    color:darkviolet;
+    font-family:Arial, Helvetica, sans-serif;
+}
 /* Bonus: change the color of your list elements */
+li {
+    color:deeppink;
+}
